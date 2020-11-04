@@ -47,8 +47,8 @@ main: #简历主要内容，
     - Java
     - C/C++P
     - Python
-  - #title: Skill Group
-    #summary: Consectetur, Adipiscing, Elit
+  - title: Skill Group
+    summary: Consectetur, Adipiscing, Elit
 
 - type: experience
   name: 个人荣誉
@@ -59,15 +59,15 @@ main: #简历主要内容，
     #tags:
     #- 标签
     summary: 拥有良好的英语能力，能无压力阅读英文技术文档、专业书籍等
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+    #detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
-  - #title: Job Title
+  - title: 一级Windows
     #sub: Your 2nd, Inc.  
-    #duration: Apr 2013 - Mar 2016
+    duration: "2019年12月"
    # tags: 
    # - tagname
-   # summary: Summary your job or work. (Collapse)
+    summary: 在软件工程课题中担任文档一职，熟练使用Windows内的word，powerpoint，excel等
    # detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - type: projects
