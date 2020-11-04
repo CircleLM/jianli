@@ -84,12 +84,12 @@ main: #简历主要内容，
    # sub: Creator and maintainer.
    #可继续添加更多内容
 
-others 其他简略内容(列表)
+#others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  #- 单行文字
+  - 单行文字
   - title: "对人工智能有浓厚的兴趣:"
     text: "在校期间有学习过人工智能相关课程并完成实践如：人脸识别"
   - # title: "兴趣:"
