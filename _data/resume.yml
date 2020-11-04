@@ -83,7 +83,7 @@ main: #简历主要内容，
     sub: 维护者
    #可继续添加更多内容
 
-others 其他简略内容(列表)
+#others: 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
