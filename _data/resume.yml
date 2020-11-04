@@ -79,9 +79,7 @@ main: #简历主要内容，
     sub: 开发者
   - title: 在校生请假系统
     duration: 2019年9月 - 2019年12月
-   # summary: Projects' introduction or summary
-    detail:参与维护在校生请假系统
-     # md: _data/demo.md
+    detail: 参与维护在校生请假系统 
     sub: 维护者
    #可继续添加更多内容
 
