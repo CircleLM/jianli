@@ -75,13 +75,14 @@ main: #简历主要内容，
   content:
   - title: 图书管理系统
     duration: 2019年9月 - 2019年12月
-    detail: 校内图书馆图书租借管理
+    detail: 开发简易校内图书馆图书租借管理系统，任课老师给予良好成绩
     sub: 开发者
-  - #title: Project Name
+  - title: 在校生请假系统
+    duration: 2019年9月 - 2019年12月
    # summary: Projects' introduction or summary
-    #detail:
+    detail:参与维护在校生请假系统
      # md: _data/demo.md
-   # sub: Creator and maintainer.
+    sub: 维护者
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
@@ -89,19 +90,18 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  - 单行文字
+  - #单行文字
   - title: "对人工智能有浓厚的兴趣:"
     text: "在校期间有学习过人工智能相关课程并完成实践如：人脸识别"
-  - # title: "兴趣:"
-    #items: #单行列表
-    #- 睡觉
-   # - 吃饭
-   # - coding
+  -  title: "对编程，测试等感兴趣:"
+    text:"在校期间与同学共同完成软件工程课题（同城物品租借项目），在组内担任文档的编写与整理"
   - title: 在校课程
     list:
     - C/C++程序设计
     - 人工智能导论
     - JavaEE程序设计
+    - Android开发基础
+    - etc.
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
